@@ -100,6 +100,8 @@ dependencies {
 
     compile libraries.app.jodaTimeAndroid
 
+    compile libraries.app.lottie
+    
     compile libraries.app.playAnalytics
 
     compile libraries.app.firebase
